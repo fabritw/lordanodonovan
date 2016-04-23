@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <title>Lordan &amp; O'Donovan Ltd. Building Contractors</title>
+    <meta name="description" content="">
+    
+    <!--#include virtual="inc/headtags.inc"-->
+    
+  </head>
+  <body class="projects">
+    <div class="wrapper">
+      
+      <!--#include virtual="inc/header.inc"-->
+
+      <div class="container">
+
+          <div class="row">
+              <div class="span9">
+                <h2>Projects</h2>
+                <div class="feature-box clearfix">
+                  <h3><a id="new-builds"></a>New Builds</h3>
+                  <div class="well">
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-clonleigh.jpg" rel="gallery" title="Private House, Kinsale">
+                        <img src="img/thumb-clonleigh.jpg" class="project-thumb"/>
+                      </a>
+                      <div class="hide">
+                        <a href="img/modal-clonleigh-rear.jpg" rel="gallery" title="Private House, Kinsale"></a>
+                        <a href="img/modal-clonleigh-stairs.jpg" rel="gallery" title="Stairs designed and constructed by Lordan &amp; O’Donovan. Concrete stairs clad in oak, stainless steel and glass with oak handrail."></a>
+                        <a href="img/modal-clonleigh-stairs-top.jpg" rel="gallery" title="Stairs designed and constructed by Lordan &amp; O’Donovan. Concrete stairs clad in oak, stainless steel and glass with oak handrail."></a>
+                      </div>
+                      <div class="project-text">
+                        <h4>Private House</h4> 
+                        <p><strong>Clonleigh, Kinsale, Co. Cork (2011 - 2012)</strong></p>
+                        <p>Construction of 4500 square foot dwelling house. Working with the clients and architect on design.</p> 
+                        <p>Reference: <a href="references.shtml">Ernst Fabritius</a>.</p>
+                      </div>
+                    </section>
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-noonan-2.jpg" rel="gallery" title="Private House, Bandon">
+                        <img src="img/thumb-noonan-2.jpg" class="project-thumb"/>
+                      </a>
+                      <div class="hide">
+                        <a href="img/modal-noonan-2.jpg" rel="gallery" title="Private House, Bandon"></a>
+                      </div>
+                      <div class="project-text">
+                        <h4>Private House</h4>
+                        <p><strong>Allen Square, Bandon, Co. Cork (2014)</strong></p>
+                        <p>Demolished existing house on elevated site, and constructed a new A-rated house with raft foundation and air to water heat pumps.</p>
+                        <p>Reference: <a href="references.shtml">Norman &amp; Irene Noonan</a>. </p>
+                      </div>
+                    </section>
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-shina-10.jpg" rel="gallery" title="Private House, Bandon">
+                        <img src="img/thumb-shina.jpg" class="project-thumb"/>
+                      </a>
+                      <div class="hide">
+                        <a href="img/modal-shina-10.jpg" rel="gallery" title="Private House, Bandon"></a>
+                      </div>
+                      <div class="project-text">
+                        <h4>Private House</h4>
+                        <p><strong>Bandon, Co. Cork (2014)</strong></p>
+                        <p>Renovation of existing farmhouse, comprising of rear and side extension, removal of internal floor joists and gable end of house, re-roofing, external insulation, and installation of air to water heat pump with underfloor heating, all to high specification.</p>
+                        <p>Reference: <a href="references.shtml">Ger O’Halloran</a>. </p>
+                      </div>
+                    </section>
+                  </div>
+                </div>
+                <br/>
+                <div class="feature-box clearfix">
+                  <h3>Industrial / Commercial</h3>
+                  <div class="well">
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-hilsers-jewellers.jpg" rel="gallery" title="Hilsers Jewellers, Bandon">
+                        <img src="img/thumb-hilsers-jewellers.jpg" class="project-thumb"/> 
+                      </a>
+                      <div class="project-text">
+                        <h4>Hilsers Jewellers</h4> 
+                        <p><strong>Bandon, Co. Cork (2009). Sub contracted from Coolfadda Developers.</strong></p>
+                        <p>Demolition of rear extension, gut entire 1st and 2nd floor, demolition of internal structural walls and installation of steel frame, construction of single storey extension, stairwell, 2 no. apartments on first and second floor levels (turn key finish), installation of gas mains. Complete supervision of shop fit out. All carried out within the confines of Bandon town with limited rear access.</p>
+                        <p>Also carried out flood damage works in 2010. <!-- Architect: Patrick A Cullinane, Bandon. -->Reference: <a href="references.shtml">Pat Desmond</a>.</p>
+                      </div>
+                    </section>
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-scannells-pharmacy.jpg" rel="gallery" title="Scannells Pharmacy, Bandon">
+                        <img src="img/thumb-scannells-pharmacy.jpg" class="project-thumb"/> 
+                      </a>
+                      <div class="project-text">
+                        <h4>Scannells Pharmacy</h4> 
+                        <p><strong>Bandon, Co. Cork (2010)</strong></p>
+                        <p>Demolition of back store, removal of back wall, construction of block work ground floor extension to pharmacy with store and stair way and new rear access, timber frame second storey extension. Refurbishment of shop and shop kit out (shop did not lose any trading time while the works were being carried out). All carried out within the confines of Bandon town with limited rear access.</p>
+                        <p><!-- Architect: Pat Horgan, Cork. -->Reference: <a href="references.shtml">Ross Twomey</a>.</p>
+                      </div>
+                    </section>
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-martin-careys-butchers.jpg" rel="gallery" title="Martin Carey's Butcher, Bandon">
+                        <img src="img/thumb-martin-careys-butchers.jpg" class="project-thumb"/> 
+                      </a>
+                      <div class="project-text">
+                        <h4>Martin Carey's Butchers</h4>
+                        <p><strong>Bandon, Co. Cork (2011)</strong></p>
+                        <p>Internal fit out of shop, removal of refrigerated units, installation of air con units, over see the installation of new refrigerated units (shop only lost 2 trading days while this work was being carried out).</p>
+                        <p>Reference: <a href="references.shtml">Martin Carey</a>.</p>
+                      </div>
+                    </section>
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-daniels.jpg" rel="gallery" title="Daniel's Restaurant, Bandon">
+                        <img src="img/thumb-daniels.jpg" class="project-thumb"/> 
+                      </a>
+                      <div class="project-text">
+                        <h4>Daniel's Fast Food Restaurant</h4>
+                        <p><strong>Bandon, Co. Cork (2010-2011)</strong></p>
+                        <p>Demolition of internal supporting walls, removal of existing floor, pouring of new floor, reconstuction of internal layout, plastering/timber works, facilitate kit out, new shop front including removal of structural column all steel works required in building. All carried out within the confines of Bandon town with limited access. Reference: <a href="references.shtml">Daniel Quatrana</a>.</p>
+                      </div>
+                    </section>
+                  </div>
+                </div>
+                <br/>
+                <div class="feature-box">
+                  <h3><a id="revamps"></a>Revamps</h3>
+                  <div class="well">
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-glasheen-3.jpg" rel="gallery" title="Private House, Glasheen">
+                        <img src="img/thumb-glasheen.jpg" class="project-thumb"/>
+                      </a>
+                      <div class="hide">
+                        <a href="img/modal-glasheen-3.jpg" rel="gallery" title="Private House, Glasheen"></a>
+                      </div>
+                      <div class="project-text">
+                        <h4>Private House</h4>
+                        <p><strong>Glasheen, Cork City (2016)</strong></p>
+                        <p>Total revamp of existing dwelling, converting into student accommodation with 39 square meter extension (ongoing).</p>
+                      </div>
+                    </section>
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-bishopstown-6.jpg" rel="gallery" title="Private House, Bishopstown">
+                        <img src="img/thumb-bishopstown.jpg" class="project-thumb"/>
+                      </a>
+                      <div class="hide">
+                        <a href="img/modal-bishopstown-6.jpg" rel="gallery" title="Private House, Bishopstown"></a>
+                      </div>
+                      <div class="project-text">
+                        <h4>Private House</h4>
+                        <p><strong>Bishopstown, Co. Cork (2014)</strong></p>
+                        <p>Demolish existing rear extension, and section of internal wall to create a modern open plan living space. Repositioning small kitchen from front of house to rear extensions and complete internal revamp.</p>
+                      </div>
+                    </section>
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-timoleague-front.jpg" rel="gallery" title="Private House, Timoleague">
+                        <img src="img/thumb-timoleague.jpg" class="project-thumb"/> 
+                      </a>
+                      <div class="hide">
+                        <a href="img/modal-timoleague.jpg" rel="gallery" title="Outside view of kitchen /living area."></a>
+                        <a href="img/modal-timoleague-livingroom.jpg" rel="gallery" title="A pair of full height hidden internal sliding doors, the mechanics of which are hidden in the ceiling."></a>
+                        <a href="img/modal-timoleague-stairs.jpg" rel="gallery" title="Stairs designed and constructed by Lordan &amp; O’Donovan. "></a>
+                        <a href="img/modal-timoleague-floor.jpg" rel="gallery" title="Full height oak door designed and installed by Lordan &amp; O’Donovan including reclaimed oak wood block flooring."></a>
+                        <!-- <a href="img/modal-timoleague-garden.jpg" rel="gallery" title="Private House, Timoleague" data-caption="View from Garden"></a> -->
+                      </div>
+                      <div class="project-text">
+                        <h4>Private House</h4>
+                        <p><strong>Timoleague, Co. Cork (2011)</strong></p>
+                        <p>Complete refurbishment of private dwelling house leaving  only external walls and roof, large section of back wall removed to create large open plan kitchen /living area.</p>  
+                        <p>Turn key finish, Lordan &amp; O'Donovan involved in the design process.</p>
+                      </div>
+                    </section>
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-garretstown.jpg" rel="gallery" title="Private House, Garretstown">
+                        <img src="img/thumb-garretstown.jpg" class="project-thumb"/> 
+                      </a>
+                      <div class="project-text">
+                        <h4>Private House</h4>
+                        <p><strong>Garretstown, Co. Cork (2011)</strong></p>
+                        <p>Partial demolition of old dwelling house, construction of rear and side extension, complete turn key finish. </p>
+                      </div>
+                    </section>
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-turners-cross.jpg" rel="gallery" title="Private House, Turner's Cross">
+                        <img src="img/thumb-turners-cross.jpg" class="project-thumb"/> 
+                      </a>
+                      <div class="hide">
+                        <a href="img/modal-turners-cross-stairs.jpg" rel="gallery" title="Private House, Turner's Cross"></a>
+                        <a href="img/modal-turners-cross-kitchen.jpg" rel="gallery" title="Private House, Turner's Cross"></a>
+                        <a href="img/modal-turners-cross-bathroom.jpg" rel="gallery" title="Private House, Turner's Cross"></a>
+                        <a href="img/modal-turners-cross-living.jpg" rel="gallery" title="Private House, Turner's Cross"></a>
+                      </div>
+                      <div class="project-text">
+                        <h4>Private House</h4>
+                        <p><strong>Turner's Cross, Co. Cork (2010 - 2011) </strong></p>
+                        <p>Complete refurbishment of terrace house, lovingly restored to its former glory and beyond  with rear two storey extension. Turn key finish.</p>
+                      </div>
+                    </section>
+                    <section class="project-feature clearfix" data-toggle="modal-gallery" data-target="#modal-gallery">
+                      <a href="img/modal-twomey.jpg" rel="gallery" title="Private House, Bandon">
+                        <img src="img/thumb-twomey.jpg" class="project-thumb"/> 
+                      </a>
+                      <div class="project-text">
+                        <h4>Private House</h4>
+                        <p><strong>Bandon, Co. Cork (2009) </strong></p>
+                        <p>Construction of front and side extension, external insulation, patio area – complete internal revamp. Complete turn key finish, including landscaping.</p> 
+                        <!-- <p>Reference: <a href="references.shtml">Mary Twomey</a>.</p> -->
+                      </div>
+                    </section>
+                  </div>
+                </div>
+              </div>
+              
+              <!--#include virtual="inc/sidebar-contact.inc"-->
+
+        </div> <!-- /container -->
+
+        <!--#include virtual="inc/modal-gallery.inc"-->
+
+      <div class="push"></div>
+    </div>
+
+    <!--#include virtual="inc/footer.inc"-->
+
+    <!--#include virtual="inc/scripts.inc"-->
+
+  </body>
+</html>

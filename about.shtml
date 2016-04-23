@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <title>Lordan &amp; O'Donovan Ltd. Building Contractors</title>
+        <meta name="description" content="">
+        
+        <!--#include virtual="inc/headtags.inc"-->
+        
+    </head>
+    <body class="about">
+        <div class="wrapper">
+            
+            <!--#include virtual="inc/header.inc"-->
+
+             <div class="container">
+                <div class="row">
+                    <div class="span9">
+                      <h2>Company Profile</h2>
+                      <div class="well pull-left">
+                        <p>Lordan &amp; O’Donovan Building contractors was established in 2009 when Patrick Lordan (qualified carpenter with 25 years experience) and Brian O’Donovan (qualified plasterer with 17 years experience) formed a partnership combining their expertise in delivering exceptional quality building workmanship.</p>
+                        <p>We are passionate about what we do and how we do it. We have a reputation for consistently delivering exceptional quality that surpasses the expectations of all our clients.</p>
+                        <p>This is reflected in the level of repeat business we have secured.</p>
+                        <p>We strive to foster good professional working relationships with our clients and anticipate and respond to their requirements.</p>
+                        <p>Most of our work has come about as a result of us being recommended to others by present and past clients.</p>
+                        <p>We differentiate ourselves from our competitors in many ways including :</p>
+                        <ul>
+                            <li><p>We have a wealth of experience in all aspects of the construction process from demolition, standard block building, pre fabricated timber frame and steel frame buildings and delivering a superior quality turn key finish in both new build and renovation projects.</p></li>
+                            <li><p>We work with our clients to ensure their satisfaction at every stage of the construction process.</p></li>
+                            <li><p>We use high quality materials sourced from our core group of builders providers.</p></li>
+                            <li><p>We have a core group of loyal and highly skilled tradesmen and subcontractors.</p></li>
+                            <li><p>We ensure that all workers comply with health and safety regulations.</p></li>
+                            <li><p>The directors of the company are hands on workers with the passion, skill, motivation and reputation to drive their building team and sub contractors forward to achieve excellence in quality. Thus delivering an exceptional quality finish that exceeds our clients expectations.</p></li>
+                            <li><p>As working directors on site, our clients are assured of an extra diligent approach to their project.</p></li>
+                            <li><p>We are always available to our clients and can be contacted at any time, day or night.</p></li>
+                        </ul>
+                        <div class="contact-box">
+                            Patrick Lordan<br/>
+                            087 3286085<br/>
+                            021 4772740
+                        </div>
+                        <div class="contact-box">
+                            Brian O'Donovan<br/>
+                            087 9857969
+                        </div>
+                        <!-- <div class="contact-references">
+                            <h4>References</h4>
+                            <p>
+                                Mr Martin Carey<br/>
+                                82 South Main Street<br/>
+                                Bandon<br/>
+                                Co. Cork<br/>
+                                Tel: 087 2600203
+                            </p>
+                            <p>
+                                Mr Ross Twomey<br/>
+                                Scannell's Pharmacy<br/>
+                                16 South Main Street<br/>
+                                Bandon<br/>
+                                Co. Cork<br/>
+                                Tel: 086 8177307
+                            </p>
+                            <p>
+                                Mr Daniel Quatrana<br/>
+                                Daniel's Fast Food<br/>
+                                98 South Main Street<br/>
+                                Bandon<br/>
+                                Co. Cork<br/>
+                                Tel: 087 9486476
+                            </p>
+                            <p>
+                                Mr Pat Desmond<br/>
+                                Hilsers Jewellers<br/>
+                                83 South Main Street<br/>
+                                Bandon<br/>
+                                Co. Cork<br/>
+                                Tel: 086 8037811
+                            </p>
+                            <p>
+                                Dr Pat Murphy<br/>
+                                11 Oliver Plunket Street<br/>
+                                Bandon<br/>
+                                Co. Cork<br/>
+                                Tel: 023 8842253
+                            </p>
+                            <p>Further references available on request.</p>
+                        </div> -->
+                      </div>
+                   </div>
+                   
+                   <!--#include virtual="inc/sidebar-contact.inc"-->
+
+                </div>
+
+                <!--#include virtual="inc/modal-gallery.inc"-->
+
+            </div> <!-- /container -->
+            <div class="push"></div>
+        </div>
+
+        <!--#include virtual="inc/footer.inc"-->
+
+        <!--#include virtual="inc/scripts.inc"-->
+
+    </body>
+</html>
