@@ -3,131 +3,151 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <title>Lordan &amp; O'Donovan Ltd. Building Contractors</title>
-        <meta name="description" content="">
-        
-        <!--#include virtual="inc/headtags.inc"-->
-        
-    </head>
-    <body class="index">
-        <div class="wrapper">
+  <head>
+    <title>Lordan &amp; O'Donovan Ltd. Building Contractors</title>
+    <meta name="description" content="">
+    
+    <!--#include virtual="inc/headtags.inc"-->
+    
+  </head>
+  <body class="index">
+    <div class="wrapper">
 
-            <!--#include virtual="inc/header.inc"-->
+      <!--#include virtual="inc/header.inc"-->
 
-            <div class="container">
+      <div class="container">
 
-                <div class="row">
-                    <div class="span12">
-                        <div class="carousel slide clearfix" id="myCarousel">
-                            <div class="carousel-inner">
-                              <div class="item active">
-                                <a href="projects.shtml#revamps"><img alt="" src="img/carousel-timoleague.jpg"></a>
-                                <div class="carousel-caption">
-                                  <h4>Revamp - Timoleague, County Cork</h4>
-                                  <p>Complete refurbishment of private dwelling house, back wall removed to create large open plan kitchen /living area. Turn key finish.</p>
-                                </div>
-                              </div>
-                              <div class="item">
-                                <a href="projects.shtml#new-builds"><img alt="" src="img/carousel-clonleigh.jpg"></a>
-                                <div class="carousel-caption">
-                                  <h4>New Build - Kinsale, County Cork</h4>
-                                  <p>Construction of 4,500 square foot dwelling house, working with the clients and architect on design. </p>
-                                </div>
-                              </div>
-                              <div class="item">
-                                <a href="projects.shtml#revamps"><img alt="" src="img/carousel-garretstown.jpg"></a>
-                                <div class="carousel-caption">
-                                  <h4>Revamp - Garretstown, County Cork</h4>
-                                  <p>Partial demolition of old dwelling house, construction of rear and side extension, complete turn key finish. </p>
-                                </div>
-                              </div>
-                              
-                            </div>
-                            <a data-slide="prev" href="#myCarousel" class="left carousel-control">‹</a>
-                            <a data-slide="next" href="#myCarousel" class="right carousel-control">›</a>
-                        </div>    
-                    </div>
+        <div class="row">
+          <div class="span12">
+            <div class="carousel slide clearfix" id="myCarousel">
+              <div class="carousel-inner">
+                <div class="item active">
+                  <a href="projects.shtml#new-builds"><img alt="" src="img/carousel-norman.jpg"></a>
+                  <div class="carousel-caption">
+                    <h4>New Build - Allen Square, Bandon</h4>
+                    <p>Demolished existing house on elevated site, and constructed a new A-rated house with raft foundation and air to water heat pumps.</p>
+                  </div>
                 </div>
-                
-                <!-- Example row of columns -->
-                <div class="row">
-                    <div class="span4 feature-box">
-                        <h3>Company Profile</h3>
-                        <div class="well">
-                            <p>Lordan &amp; O’Donovan Building contractors was established in 2009. We are passionate about what we do and how we do it. We have a reputation for consistently delivering exceptional quality that surpasses the expectations of all our clients.</p>
-                            <p><a class="btn" href="about.shtml">Read more &raquo;</a></p>
-                        </div>
-                    </div>
-                    <div class="span4 feature-box">
-                        <h3>Projects</h3>
-                        <div class="well">
-                            <p>The projects page provides examples of our work, including new builds and revamps of residential properties. Numerous commercial / industrial refurbishments are also featured. </p>
-                            <p><a class="btn" href="projects.shtml">View projects &raquo;</a></p>
-                        </div>
-                    </div>
-                    <!-- <div class="span4 feature-box">
-                        <h3>Testimonials</h3>
-                        <div class="well">
-                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                            <p><a class="btn" href="testimonials.shtml">Read more &raquo;</a></p>
-                        </div>
-                    </div> -->
-                    <div class="span4 feature-box">
-                        <h3>References</h3>
-                        <div class="well">
-                            <p>As a testament to our continued client satisfaction, please see our extensive list of references at the below link. </p>
-                            <p><a class="btn" href="references.shtml">View references &raquo;</a></p>
-                        </div>
-                    </div>
+                <div class="item">
+                  <a href="projects.shtml#revamps"><img alt="" src="img/carousel-bishopstown2.jpg"></a>
+                  <div class="carousel-caption">
+                    <h4>Revamp - Bishopstown, County Cork</h4>
+                    <p>Demolish existing rear extension, and section of internal wall to create a modern open plan living space and kitchen.</p>
+                  </div>
                 </div>
-
-            </div> <!-- /container -->
-            <div class="push"></div>
+                <div class="item">
+                  <a href="projects.shtml#revamps"><img alt="" src="img/carousel-shina2.jpg"></a>
+                  <div class="carousel-caption">
+                    <h4>New Build - Bandon, County Cork</h4>
+                    <p>Renovation of existing farmhouse, comprising of rear and side extension, re-roofing, external insulation, and installation of air to water heat pump with underfloor heating.</p>
+                  </div>
+                </div>
+                <div class="item">
+                  <a href="projects.shtml#revamps"><img alt="" src="img/carousel-timoleague.jpg"></a>
+                  <div class="carousel-caption">
+                    <h4>Revamp - Timoleague, County Cork</h4>
+                    <p>Complete refurbishment of private dwelling house, back wall removed to create large open plan kitchen /living area. Turn key finish.</p>
+                  </div>
+                </div>
+                <div class="item">
+                  <a href="projects.shtml#new-builds"><img alt="" src="img/carousel-clonleigh.jpg"></a>
+                  <div class="carousel-caption">
+                    <h4>New Build - Kinsale, County Cork</h4>
+                    <p>Construction of 4,500 square foot dwelling house, working with the clients and architect on design. </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <a href="projects.shtml#revamps"><img alt="" src="img/carousel-garretstown.jpg"></a>
+                  <div class="carousel-caption">
+                    <h4>Revamp - Garretstown, County Cork</h4>
+                    <p>Partial demolition of old dwelling house, construction of rear and side extension, complete turn key finish. </p>
+                  </div>
+                </div>                
+              </div>
+              <a data-slide="prev" href="#myCarousel" class="left carousel-control">‹</a>
+              <a data-slide="next" href="#myCarousel" class="right carousel-control">›</a>
+            </div>    
+          </div>
+        </div>
+        
+        <!-- Example row of columns -->
+        <div class="row">
+          <div class="span4 feature-box">
+            <h3>Company Profile</h3>
+            <div class="well">
+              <p>Lordan &amp; O’Donovan Building contractors was established in 2009. We are passionate about what we do and how we do it. We have a reputation for consistently delivering exceptional quality that surpasses the expectations of all our clients.</p>
+              <p><a class="btn" href="about.shtml">Read more &raquo;</a></p>
+            </div>
+          </div>
+          <div class="span4 feature-box">
+            <h3>Projects</h3>
+            <div class="well">
+              <p>The projects page provides examples of our work, including new builds and revamps of residential properties. Numerous commercial / industrial refurbishments are also featured. </p>
+              <p><a class="btn" href="projects.shtml">View projects &raquo;</a></p>
+            </div>
+          </div>
+          <!-- <div class="span4 feature-box">
+            <h3>Testimonials</h3>
+            <div class="well">
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="testimonials.shtml">Read more &raquo;</a></p>
+            </div>
+          </div> -->
+          <div class="span4 feature-box">
+            <h3>References</h3>
+            <div class="well">
+              <p>As a testament to our continued client satisfaction, please see our extensive list of references at the below link. </p>
+              <p><a class="btn" href="references.shtml">View references &raquo;</a></p>
+            </div>
+          </div>
         </div>
 
-        <!--#include virtual="inc/footer.inc"-->
+      </div> <!-- /container -->
+      <div class="push"></div>
+    </div>
 
-        <!--#include virtual="inc/scripts.inc"-->
+    <!--#include virtual="inc/footer.inc"-->
 
-        <script>
-            (function($){
-                function equalHeight(group) {
-                    var tallest = 0;
-                    group.each(function () {
-                        var thisHeight = $(this).height();
-                        if (thisHeight > tallest) {
-                            tallest = thisHeight;
-                        }
-                    });
-                    group.each(function () {
-                        var width = $(window).width(),
-                            size = width>767 ? tallest : 'auto';
-                        $(this).height(size);
-                    });
-                }
+    <!--#include virtual="inc/scripts.inc"-->
 
-                var boxes = $(".feature-box > .well");
-                equalHeight(boxes);
+    <script>
+      (function($){
+        function equalHeight(group) {
+          var tallest = 0;
+          group.each(function () {
+            var thisHeight = $(this).height();
+            if (thisHeight > tallest) {
+              tallest = thisHeight;
+            }
+          });
+          group.each(function () {
+            var width = $(window).width(),
+              size = width>767 ? tallest : 'auto';
+            $(this).height(size);
+          });
+        }
 
-                $(window).resize(function() {
-                    if(this.resizeTO) clearTimeout(this.resizeTO);
-                        this.resizeTO = setTimeout(function() {
-                        $(this).trigger('resizeEnd');
-                    }, 500);
-                });
+        var boxes = $(".feature-box > .well");
+        equalHeight(boxes);
 
-                //do something, window hasn't changed size in 500ms
-                $(window).bind('resizeEnd', function() {
-                    // reset heights
-                    boxes.each(function(){
-                        $(this).height('auto');
-                    });
-                    equalHeight(boxes);
-                });
+        $(window).resize(function() {
+          if(this.resizeTO) clearTimeout(this.resizeTO);
+            this.resizeTO = setTimeout(function() {
+            $(this).trigger('resizeEnd');
+          }, 500);
+        });
 
-            })(jQuery);
-        </script>
-        
-    </body>
+        //do something, window hasn't changed size in 500ms
+        $(window).bind('resizeEnd', function() {
+          // reset heights
+          boxes.each(function(){
+            $(this).height('auto');
+          });
+          equalHeight(boxes);
+        });
+
+      })(jQuery);
+    </script>
+    
+  </body>
 </html>

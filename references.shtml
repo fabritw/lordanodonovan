@@ -3,102 +3,104 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <title>Lordan &amp; O'Donovan Ltd. Building Contractors</title>
-        <meta name="description" content="">
-        
-        <!--#include virtual="inc/headtags.inc"-->
-        
-    </head>
-    <body class="references">
-        <div class="wrapper">
-            
-            <!--#include virtual="inc/header.inc"-->
+  <head>
+    <title>Lordan &amp; O'Donovan Ltd. Building Contractors</title>
+    <meta name="description" content="">
+    
+    <!--#include virtual="inc/headtags.inc"-->
+    
+  </head>
+  <body class="references">
+    <div class="wrapper">
+      
+      <!--#include virtual="inc/header.inc"-->
 
-             <div class="container">
-                <div class="row">
-                    <div class="span9">
-                      <h2>References</h2>
-                      <div class="well pull-left">
-                        <div class="contact-references">
-                            <p>As a testament to our continued client satisfaction, please see an extensive list of references below. Further references are available on request.</p><p>&nbsp;</p>
-                            <p>
-                                Mr Martin Carey<br/>
-                                82 South Main Street<br/>
-                                Bandon<br/>
-                                Co. Cork<br/>
-                                Tel: 087 2600203
-                            </p>
-                            <p>
-                                Mr Pat Desmond<br/>
-                                Hilsers Jewellers<br/>
-                                83 South Main Street<br/>
-                                Bandon<br/>
-                                Co. Cork<br/>
-                                Tel: 086 8037811
-                            </p>
-                            <p>
-                                Mr Ernst Fabritius<br/>
-                                Clonleigh<br/>
-                                Kinsale<br/>
-                                Co. Cork<br/>
-                                Tel: 021 4774333
-                            </p>
-                            <p>
-                                Dr Pat Murphy<br/>
-                                11 Oliver Plunket Street<br/>
-                                Bandon<br/>
-                                Co. Cork<br/>
-                                Tel: 023 8842253
-                            </p>
-                            <!-- <p>
-                                Norman &amp; Irene Noonan<br/>
-                                <br/>
-                                Bandon<br/>
-                                Co. Cork<br/>
-                                Tel: 
-                            </p> -->
-                            <p>
-                                Mr Daniel Quatrana<br/>
-                                Daniel's Fast Food<br/>
-                                98 South Main Street<br/>
-                                Bandon<br/>
-                                Co. Cork<br/>
-                                Tel: 087 9486476
-                            </p>
-                            <!-- <p>
-                                Mrs Mary Twomey<br/>
-                                <br/>
-                                Bandon<br/>
-                                Co. Cork<br/>
-                                Tel: 
-                            </p> -->
-                            <p>
-                                Mr Ross Twomey<br/>
-                                Scannell's Pharmacy<br/>
-                                16 South Main Street<br/>
-                                Bandon<br/>
-                                Co. Cork<br/>
-                                Tel: 086 8177307
-                            </p>
+      <div class="container">
+        <div class="row">
+          <div class="span9">
+            <h2>References</h2>
+            <div class="well pull-left">
+              <div class="contact-references">
+                <p>As a testament to our continued client satisfaction, please see an extensive list of references below. Further references are available on request.</p>
+                <p>
+                  Mr Martin Carey<br/>
+                  82 South Main Street<br/>
+                  Bandon<br/>
+                  Co. Cork<br/>
+                  Tel: 087 2600203<br/>
+                  <i>Project: Martin Carey’s Butchers</i>
+                </p>
+                <p>
+                  Mr Pat Desmond<br/>
+                  Hilsers Jewellers<br/>
+                  83 South Main Street<br/>
+                  Bandon<br/>
+                  Co. Cork<br/>
+                  Tel: 086 8037811<br/>
+                  <i>Project: Hilser's Jewellers</i>
+                </p>
+                <p>
+                  Mr Ernst Fabritius<br/>
+                  Clonleigh<br/>
+                  Kinsale<br/>
+                  Co. Cork<br/>
+                  Tel: 021 4774333<br/>
+                  <i>Projects:<br/> 
+                  1. Private House, Clonleigh<br/>
+                  2. Glasheen, Cork City</i>
+                </p>
+                <p>
+                  Mr Daniel Quatrana<br/>
+                  Daniel's Fast Food<br/>
+                  98 South Main Street<br/>
+                  Bandon<br/>
+                  Co. Cork<br/>
+                  Tel: 087 9486476<br/>
+                  <i>Project: Daniel’s Fast Food restaurant</i>
+                </p>
+                <p>
+                  Mr Ross Twomey<br/>
+                  Scannell's Pharmacy<br/>
+                  16 South Main Street<br/>
+                  Bandon<br/>
+                  Co. Cork<br/>
+                  Tel: 086 8177307<br/>
+                  <i>Projects:<br/>
+                  1. Scannells pharmacy<br/>
+                  2. Private House, Timoleague</i>
+                </p>
+                <p>
+                  Ger O’Halloran<br/>
+                  Ballinhassig,<br/>
+                  County Cork<br/>
+                  Tel: 086 4163825<br/>
+                  <i>Project: Farm house, Bandon</i>
+                </p>
+                <p>
+                  Norman and Irene Noonan<br/>
+                  Allen Square,<br/>
+                  Bandon,<br/>
+                  County Cork<br/>
+                  087 2738177<br/>
+                  <i>Project: Private house, Allen Square, Bandon</i>
+                </p>
+              </div>
+            </div>
+           </div>
+           
+           <!--#include virtual="inc/sidebar-contact.inc"-->
 
-                        </div>
-                      </div>
-                   </div>
-                   
-                   <!--#include virtual="inc/sidebar-contact.inc"-->
-
-                </div>
-
-                <!--#include virtual="inc/modal-gallery.inc"-->
-
-            </div> <!-- /container -->
-            <div class="push"></div>
         </div>
 
-        <!--#include virtual="inc/footer.inc"-->
+        <!--#include virtual="inc/modal-gallery.inc"-->
 
-        <!--#include virtual="inc/scripts.inc"-->
+      </div> <!-- /container -->
+      <div class="push"></div>
+    </div>
 
-    </body>
+    <!--#include virtual="inc/footer.inc"-->
+
+    <!--#include virtual="inc/scripts.inc"-->
+
+  </body>
 </html>
